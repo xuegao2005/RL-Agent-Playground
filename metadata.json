@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NeuroGrid: RL Agent Playground",
+  "description": "A visual Reinforcement Learning playground where an AI agent learns to navigate complex grid worlds using Q-Learning. Features real-time training visualization, stats tracking, and Gemini-powered map generation.",
+  "requestFramePermissions": []
+}
